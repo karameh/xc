@@ -10,8 +10,8 @@ import math
 # CalcSinPlusCos  = Calculate  a  sin + cos or vise versa
 # FindSinOrCos    = Calculate the sin or cos from the opposite one ex Sin -> cos / cos -> sin
 # CalcTan2        = Calculate the tangent from the Sin and Cos
-
-
+# CalcTendency    = Calculate the Tendency of 2 points
+# CalcR           = Calculate the radius of a circle with a special circle equation ex ( X^2 + Y^2 + XA + YB + number = 0)
 
 
 
